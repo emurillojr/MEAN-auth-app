@@ -33,4 +33,7 @@ Angular Flash Message Module
 -ex: log out pop up message  
 
 Compile & Deploy  
-
+  
+  
+-Used Chrome Postman extenstion to test adding user to data base  
+-Verified user entered and password hashed with mongodb shell 

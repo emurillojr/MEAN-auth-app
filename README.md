@@ -35,5 +35,6 @@ Angular Flash Message Module
 Compile & Deploy  
   
   
--Used Chrome Postman extenstion to test adding user to data base  
--Verified user entered and password hashed with mongodb shell 
+Additional Notes:  
+-Used Chrome Postman for testing POST data  
+-Verified user entered and password hashed with mongodb shell  

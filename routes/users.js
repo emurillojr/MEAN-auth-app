@@ -53,7 +53,7 @@ router.post('/authenticate', (req, res, next) => {
         // if there is a user check password (password entered, user.hashedpassword)
         User.comparePassword(password, user.password, (err, isMatch) => {
             if (err) throw err;
-            // if no error 
+            // if no error
             if (isMatch) {
                 // create token
                 const token = jwt.sign({

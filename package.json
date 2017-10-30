@@ -14,7 +14,7 @@
         "cors": "*",
         "jsonwebtoken": "*",
         "body-parser": "*",
-        "passport": "*",m
+        "passport": "*",
         "passport-jwt": "*"
 
     },

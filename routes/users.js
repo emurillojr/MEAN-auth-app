@@ -63,7 +63,7 @@ router.post('/authenticate', (req, res, next) => {
                 });
                 // response to front end
                 res.json({
-                    sucess: true,
+                    success: true,
                     token: 'JWT ' + token,
                     user: {
                         id: user._id,

@@ -47,3 +47,8 @@ Install the dependencies
 $ npm install  
 Run app  
 $ npm start  
+
+
+Version 2.0.0
+TBD....
+deploy app to Heroku and setup mLab for MongoDB database
